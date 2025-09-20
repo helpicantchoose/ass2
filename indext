@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+<title>well...</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="header">
+    <img src="apple.jpg" width="30" height="30">
+    <h2>International Dana University</h2>
+  </div>
+
+  <div id="nav">
+    Task 1 <a href="Ass2_2.html">Task 2</a> <a href="Ass2_3.html">Task 3</a> <a href="https://www.figma.com/design/1fq1VnHbTIBLgTFlIcTpCq/Untitled?node-id=0-1&t=dViUyvomytOMbJVY-1">Task 4</a>
+  </div>
+
+  <div id="sidebar">
+    My courses
+    <ul style="list-style-type: circle">
+      <li><a href="https://www.youtube.com/watch?v=ylXVn-wh9eQ&list=PL8dPuuaLjXtMJ-AfB_7J1538YKWkZAnGA">Introduction To Sociology | Daniyal Abrayev </a></li>
+      <li><a href="https://www.youtube.com/watch?v=7DZR5UaAM0E&list=PLEiEAq2VkUUImmTXP_YC2j5qIGOV9NPLy">Internet Of Things | Yan Kudashov</a></li>
+      <li><a href="https://www.youtube.com/watch?v=BNYJQaZUDrI&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR">Philosophical Theories | Moldir Yergesh </a></li>
+      <li><a href="https://fri.uni-lj.si/en/industrial-practice">Industrial Practice | Damir Sheneussizov</a></li>
+      <li><a href="https://www.youtube.com/watch?v=O77IFewBxcg&list=PL8dPuuaLjXtNDV8GjzfScxgEe4OgIlh3c">Religious Studies 1| Bakdaulet Abdikul</a></li>
+      <li><a href="https://www.youtube.com/watch?v=9I_-ADGrKQo&list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO">Economic Analysis | Dana Tutkyshbayeva</a></li>
+    </ul>
+  </div>
+
+  <div id="main">
+    <b>Выбор элективных дисциплин на 2025-2026 учебный год | Choosing of elective disciplines for 2025-2026 academic year</b> 
+    <p>   Уважаемые обучающиеся 4 курса !
+
+- бакалавриата образовательных программ - ITE, МТ, IoT, AIB
+- магистратуры образовательных программ - CSE, CS, ADA, DPA, РМ, МТ, SSE, AAI
+- докторантуры образовательных программ - CS, PM, AI
+ </p>
+  </div>
+
+  <div id="footer">
+    Since 2018
+  </div>
+</body>
+
+</html>
