@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+<title>well...</title>
+<link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+  <div id="header">
+    <h3>Tribute to Philomena Cunk</h3>
+  </div>
+
+  <div id="firstbar">
+  <img src="4444.jpg" width="300" height="200" alt="What i'm doing here?">
+  <h2>About Philomena Cunk</h2>
+  <br>
+  Philomena Cunk, an ill-informed investigative reporter.he lovely, bumbling Philomena Cunk visits historical sites and sits down with leading academics in philosophy,
+  science and ancient Mesopotamian script. While Philomena asks these big brains wildly uninformed questions 
+  like “Who are you?” and “Which episode are we on now?” her learned subjects attempt to engage in very real, factual conversations. 
+  Hilarity ensues, although Cunk may not register how silly these chats truly are. She’s too busy trying to talk about her mate Paul. 
+  </div>
+
+  <div id="secondbar">
+  <h3><a href="https://www.youtube.com/@PhilomenaCunkOn">Achievements:</a></h3>
+  <ul>
+    <li>None</li>
+    <li>Asking uncomfortable questions</li>
+    <li>Being NOT good at history(Or any other fields)</li>
+    <li>Funny</li>
+  </ul>
+  </div>
+  
+
+  <button><a href="https://en.wikipedia.org/wiki/Diane_Morgan">Learn More</a></button>
+
+
+  <div id="footer">
+    Since 2018
+  </div>
+</body>
+
+</html>
