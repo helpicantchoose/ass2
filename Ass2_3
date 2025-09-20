@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+<title>well...</title>
+<link rel="stylesheet" href="style3.css">
+</head>
+
+<body>
+
+  <div id="titling">
+    <h1>Report for ELECTIVE disciplines</h1>
+  </div>
+
+  <div id="firstbar">
+    <table>
+    <tr><th>Name</th><th>Subject</th><th>Grade</th></tr>
+    <tr><td rowspan="2">Dana</td><td>Calculus 3</td><td>A</td></tr>
+    <tr><td>Foreing Language 3</td><td>A</td></tr>
+    <tr><td rowspan="2">Yan</td><td>Computer Vision</td><td>B-</td></tr>
+    <tr><td>Machine Learning</td><td>A</td></tr>
+    <tr><td rowspan="2">Moldir</td><td>Risk Management</td><td>A+</td></tr>
+    <tr class="high"><td>Human Geography</td><td>C</td></tr>
+    </table>
+    <br>
+    <b>Warning: highlited disciplines will not affect total GPA</b>
+  </div>
+
+
+
+  <div id="form">
+  <h2>Experience Quiality Survey</h2>
+  <form>
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="1"><br><br>
+
+  <label for="email">email:</label><br>
+  <input type="email" id="email" name="1"><br><br>
+
+
+  <label for="role">Who are you?:</label><br><br>
+
+  <select name="role" id="role">
+    <option value="teacher">Teacher</option>
+    <option value="student">Student</option>
+    <option value="other">Other</option>
+  </select>
+
+
+  <br><br><br>
+  <label for="Do you like?">Do you like university you study in?:</label><br><br>
+   <label for="yes">Yes</label>
+  <input type="radio" id="role" name="1"><br><br> 
+   <label for="no">No  </label>
+  <input type="radio" id="role" name="1"><br><br> 
+
+  <label for="textarr">Additional Information:</label><br>
+  <textarea id="textarr" name="textarr" rows="4" cols="50"></textarea>
+  <br><br>
+  <input type="submit" id="submit" name="1"><br><br> 
+  
+  </form>
+  </div>
+  
+</html>
